@@ -1,2 +1,2 @@
-# ModelChecking_quicksort
-Quicksort Model with Promela using Lomuto Algorithm
+# ModelChecking quicksort
+Quicksort Algorithm Model with Promela using Lomuto Algorithm
